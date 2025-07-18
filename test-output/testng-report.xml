@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-report>
+  <suites>
+    <suite name="Student Tests Suite">
+      <test name="Student Dynamic Tests">
+        <passed>15</passed>
+        <failed>10</failed>
+        <skipped>1</skipped>
+      </test>
+      <test name="Student Parametrized Tests">
+        <passed>56</passed>
+        <failed>10</failed>
+        <skipped>0</skipped>
+      </test>
+    </suite>
+  </suites>
+  <summary>
+    <total-tests>92</total-tests>
+    <passed>71</passed>
+    <failed>20</failed>
+    <skipped>1</skipped>
+  </summary>
+</testng-report>
